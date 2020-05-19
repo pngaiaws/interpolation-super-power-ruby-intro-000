@@ -6,7 +6,7 @@ def display_rainbow(test_array)
   print "G: #{test_array[3]}, "
   print "B: #{test_array[4]}, "
   print "I: #{test_array[5]}, "
-  print "V: #{test_array[6]}, "
+  print "V: #{test_array[6]}\n"
 end
 colors=['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet']
 display_rainbow(colors)
